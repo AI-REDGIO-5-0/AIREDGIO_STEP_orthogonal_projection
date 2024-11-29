@@ -1,4 +1,4 @@
-# Views extractor from STEP files 
+# PiXYZ Views extractor from STEP files 
 
 This repository contains a python script to automate the extraction of STEP file’s orthogonal projections using tools available on PIXYZ Studio software. 
 
